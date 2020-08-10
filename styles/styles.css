@@ -321,7 +321,7 @@ img {
     padding: 10px;
     visibility: hidden;
     border-radius: 50px;
-    background-image: url(./img/gif3.gif);
+    background-image: url(../img/gif3.gif);
 }
 
 .email {
